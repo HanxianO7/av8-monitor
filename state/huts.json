@@ -1,0 +1,116 @@
+{
+  "plose": {
+    "fails": 1,
+    "error": "reader 403",
+    "checked": "2026-10-01T13:03:45.896329+00:00"
+  },
+  "genova": {
+    "status": "watching",
+    "sentences": [
+      "1382 (Civil Code): At least 10 days before the arrival date, the reservation can be cancelled without paying a cancellation fee.",
+      "15:26 31 Jul 26 In der Hochsaison voll ausgebucht alles natürlich etwas stressig - aber hat alles wunderbar gepasst, sehr engagiert geführt auch, der Hüttenwirt nimmt sich die Zeit für kleine Schnacks - vielen Dank!",
+      "39040 Villnöss Italy/Südtirol Lodge +39 0472 670072 Mobile Phone +39 347 2667694 info@schlueterhuette.com VAT-Nr: 02571910211 Inquiry/Reservation Opening hours Maps",
+      "Additional charges and terms of payment Deposit: The reservation will be confirmed once the deposit of 20 € per person is transferred to our bank account.",
+      "Booking Bookings can be made by email or phone.",
+      "Dinner is exclusively reserved for hotel guests.",
+      "If you have booked a room without bed linen or a place in the mattress dormitory, you will definitely need a sleeping bag .",
+      "In case of no-show or early departure, the fee is due in full for the entire booking period.",
+      "In order for us to be prepared for your arrival, please make a reservation in advance by calling +39 0472 670072 or by email to info@schlueterhuette.com .",
+      "Only the specific service offer or the booking confirmation is binding.",
+      "Opening hours Schlüterhütte",
+      "Otherwise, we will be obliged to charge the full number of booked spots.",
+      "Prices & rates for Kids Prices remain the same throughout the season.",
+      "Unsere Gruppe von 11 Personen wurde herzlich empfangen; wir hatten einen reservierten Tisch, und das Personal war freundlich.",
+      "We reserve the right to make changes without notice or to amend the information.",
+      "Würde eher eine andere Hütte das nächste Mal buchen.",
+      "info@schlueterhuette.com 0472 670072 or 347 266 7694 Unfortunately we can’t accept reservations via WhatsApp.",
+      "– 11.10.2026 Lunchtime: 11:30 am – 3:00 pm Table reservations are not available."
+    ],
+    "fp": "2a1bce769101",
+    "method": "direct/direct",
+    "added": 0,
+    "fails": 0,
+    "checked": "2026-10-01T13:03:45.896329+00:00"
+  },
+  "resciesa": {
+    "status": "watching",
+    "sentences": [
+      "Reservierung Reservierungsanfragen beantworten wir ausschlieÃlich per E-Mail an: info@rifugioresciesa.com FÃ¼r die Reservierung eines Doppelbettzimmers ist eine Anzahlung in HÃ¶he von 50% des GesamtÃ¼bernachtungspreises innerhalb von einer Woche zu leisten.",
+      "Ãbernachtung auf der RaschÃ¶tz HÃ¼tte Menu Gastronomie Ãbernachtung Sommer Winter Lage & Kontakt Wie erreichen Sie uns?",
+      "ÃbernachtungsgÃ¤ste benÃ¶tigen keine Reservierung fÃ¼r das Abendessen."
+    ],
+    "fp": "6a869b2fa4e2",
+    "method": "direct",
+    "added": 0,
+    "fails": 0,
+    "checked": "2026-10-01T13:03:45.896329+00:00"
+  },
+  "firenze": {
+    "fails": 1,
+    "error": "reader 403",
+    "checked": "2026-10-01T13:03:45.896329+00:00"
+  },
+  "sassopiatto": {
+    "status": "watching",
+    "sentences": [
+      "Here, a paradise opens up to you: All around our Alpine hut in the Dolomites is Europe’s largest Alpine pasture, where calves and sheep graze.",
+      "Traditional South Tyrolean dishes We love searching through grandma’s cookbook for traditional South Tyrolean dishes, to which we add the finest Mediterranean herbs."
+    ],
+    "fp": "ac19a5145873",
+    "method": "direct/direct",
+    "added": 0,
+    "fails": 0,
+    "checked": "2026-10-01T13:03:45.896329+00:00"
+  },
+  "molignon": {
+    "status": "watching",
+    "sentences": [
+      "In molignon you can enjoy all kinds of delicacies in the warm parlour or on the airy, sunny terrace , depending on the season: whether traditional South Tyrolean dishes or a typical South Tyrolean Marende (cold platter) as a quick snack.",
+      "Reopening on December 18 for the winter season.",
+      "Seasonal, concise, and inspiring – just like your holiday.",
+      "Send your non-binding request Facebook Instagram +39 0471 727 912 info@molignon.it schutzhaus molignon Joch 28"
+    ],
+    "fp": "81bc2b90c94e",
+    "method": "direct/direct",
+    "added": 0,
+    "fails": 0,
+    "checked": "2026-10-01T13:03:45.896329+00:00"
+  },
+  "tierseralpl": {
+    "status": "watching",
+    "sentences": [
+      "A deposit is required when making a reservation.",
+      "Alpine Hut in the Dolomites Rooms Kitchen & Cellar How to reach us Contact Book now Tierser Alpl, your mountain hut in the heart of the Dolomites Between the Schlern, Rosengarten and Seiser Alm, at over 2,400 metres: hiking, alpine cuisine and genuine South Tyrolean hospitality.",
+      "Book now How to reach us The way to the hut You can reach us: from the Seiser Alm/Compatsch (1,850 m), on trail no.",
+      "Book now Kitchen and cellar Tyrolean cuisine with a Mediterranean touch The host family, Judith and Stefan together with their sons Felix and Willi, share their passion for good food and a welcoming atmosphere.",
+      "Book your stay at the Tierser Alpl Mountain Hut now and experience the Dolomites in the most authentic way.",
+      "Cancellations and reservation changes For organisational reasons, we ask you to inform us immediately of any cancellations and any changes to your reservation.",
+      "If fewer guests than booked arrive on the day of arrival, the deposit for the absent guests will be retained.",
+      "If the cancellation is made at least 10 days before the arrival date, the deposit remains valid for another date within the same season.",
+      "If the cancellation is made within 10 days of the booked date, the full deposit is retained and the amount cannot be transferred to another date.",
+      "Please understand that dogs are not allowed during the high season, from 21 June to mid-September.",
+      "© InternetService Book now"
+    ],
+    "fp": "4615b7d4a47c",
+    "method": "direct",
+    "added": 0,
+    "fails": 0,
+    "checked": "2026-10-01T13:03:45.896329+00:00"
+  },
+  "schlernhaus": {
+    "status": "watching",
+    "sentences": [
+      "Book your stay at Schlernhaus now.",
+      "Digital Parking Reservation Read more / Arbeite auf dem Berg!",
+      "Italy T (during the summer season): +39 0471 612024 E-mail: info@ no-spam.",
+      "Read more How to reach us Details Reserve a bed Details View menu Details Revel in the history of the Schlernhaus Details Conquer the Sciliar/Schlern on foot The journey up to the Schlernhaus is only possible on foot as there is no access road.",
+      "Read more Your place for the night At the Schlernhaus, you can reserve either a place in a typical hut dormitory or a cosy bed with a down duvet for your multi-day hike.",
+      "Summer season 2026: from 6 June to 11 October 2026 Summer season 2027: from 8 June to 10 October 2027 Important: Your car will need to stay down in the valley."
+    ],
+    "fp": "b712ea645b11",
+    "method": "direct/direct",
+    "added": 0,
+    "fails": 0,
+    "checked": "2026-10-01T13:03:45.896329+00:00"
+  }
+}
