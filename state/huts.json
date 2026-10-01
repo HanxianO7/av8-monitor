@@ -16,9 +16,8 @@
     "engine_at": "2026-10-01T14:07:27.627403",
     "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?dateStart=23-06-2027&dateEnd=24-06-2027",
     "rooms_alert_at": "2026-10-01T14:07:27.627471",
-    "fails": 1,
-    "checked": "2026-10-01T23:07:12.705955+00:00",
-    "error": "direct 202; browser 202; reader 200"
+    "fails": 0,
+    "checked": "2026-10-01T23:14:52.912351+00:00"
   },
   "genova": {
     "status": "watching",
@@ -46,7 +45,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T23:07:12.705955+00:00"
+    "checked": "2026-10-01T23:14:52.912351+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -59,7 +58,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T23:07:12.705955+00:00"
+    "checked": "2026-10-01T23:14:52.912351+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify",
@@ -78,7 +77,7 @@
     "engine_at": "2026-10-01T14:07:45.107248",
     "engine_url": "https://booking.roomraccoon.it/rifugio-firenze/en/?dateStart=27-06-2027&dateEnd=28-06-2027",
     "fails": 0,
-    "checked": "2026-10-01T23:07:12.705955+00:00"
+    "checked": "2026-10-01T23:14:52.912351+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -90,7 +89,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T23:07:12.705955+00:00"
+    "checked": "2026-10-01T23:14:52.912351+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -104,7 +103,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T23:07:12.705955+00:00"
+    "checked": "2026-10-01T23:14:52.912351+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -125,7 +124,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T23:07:12.705955+00:00"
+    "checked": "2026-10-01T23:14:52.912351+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -141,6 +140,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T23:07:12.705955+00:00"
+    "checked": "2026-10-01T23:14:52.912351+00:00"
   }
 }
