@@ -134,10 +134,17 @@ def check_pages(hut, prev):
 def check_engine(hut, prev):
     """Rendered booking engine for the trip night. Also page-watch the hut site."""
     n = datetime.strptime(hut["night"], "%Y-%m-%d").date()
-    url = hut["engine_url"].format(checkin=n.isoformat(), checkout=(n + timedelta(days=1)).isoformat(),
-                                   guests=S["guests"])
+    url = hut["engine_url"].format(checkin=n.strftime("%d-%m-%Y"),
+                                   checkout=(n + timedelta(days=1)).strftime("%d-%m-%Y"), guests=S["guests"])
+    want_date = f"{n.day} {n:%b} {n.year}"  # e.g. "23 Jun 2027" as shown by RoomRaccoon (EN)
     page_res, alerts = check_pages(hut, prev)  # page watch always runs
     DEBUG.mkdir(parents=True, exist_ok=True)
+    last = prev.get("engine_at")
+    if last and prev.get("engine_url") == url and prev.get("engine") != "engine unreachable" and \
+            datetime.utcnow() - datetime.fromisoformat(last) < timedelta(hours=S.get("engine_every_hours", 24)):
+        keep = {k: prev[k] for k in ("engine", "engine_method", "engine_at", "engine_url", "rooms_alert_at") if k in prev}
+        st = prev["engine"] if prev.get("engine", "").startswith("ROOMS") else page_res["status"]
+        return {**page_res, **keep, "status": st}, alerts  # engine checked recently; reuse result
     try:
         text, how = fetch(url, rendered=True)
     except Exception as e:
@@ -148,14 +155,22 @@ def check_engine(hut, prev):
     low = text.lower()
     none_hit = matches(S["none_patterns"], low)
     avail_hit = matches(S["available_patterns"], low)
-    if none_hit:
+    dorm_price = re.search(r"(bed in dorm|dormitor|camerata|posto letto|lager).{0,1500}?€\s?\d{2,3}", low)
+    if want_date.lower() not in low:
+        eng = f"WRONG DATES - page not showing {want_date}"
+    elif none_hit:
         eng = "no rooms / not open"
-    elif avail_hit and "2027" in text:
-        eng = "ROOMS SHOWN - verify dorm"
+    elif avail_hit and dorm_price:
+        eng = "ROOMS SHOWN - dorm price listed"
+    elif avail_hit:
+        eng = "rooms listed, no dorm price - see debug"
     else:
-        eng = "unclear - see debug"
-    res = {**page_res, "engine": eng, "engine_method": how, "status":
+        eng = "no dorm beds shown"
+    res = {**page_res, "engine": eng, "engine_method": how, "engine_at": datetime.utcnow().isoformat(),
+           "engine_url": url, "status":
            eng if eng.startswith("ROOMS") else page_res["status"]}
+    if eng.startswith("WRONG") and not prev.get("engine", "").startswith("WRONG"):
+        alerts.append(f"⚠️ {hut['name']}: booking engine ignored the dates ({eng}). Check needed:\n{url}")
     if eng.startswith("ROOMS"):
         last = prev.get("rooms_alert_at")
         due = not last or (datetime.utcnow() - datetime.fromisoformat(last)) > timedelta(hours=S["still_open_reminder_hours"])
@@ -179,13 +194,15 @@ def due_reminders(sent):
 
 
 def write_status(results, now):
-    rows = ["| Night | Hut | Role | Status | Meals | Booking | Method |", "|---|---|---|---|---|---|---|"]
+    rows = ["| Night | Hut | Role | Status | Booking engine | Meals | Booking | Method |",
+            "|---|---|---|---|---|---|---|---|"]
     for h in CFG["huts"]:
         r = results.get(h["id"], {})
         st = r.get("status", "?")
         if r.get("fails"):
             st = f"⚠️ error x{r['fails']}: {r.get('error', '')[:60]}"
-        rows.append(f"| {h['night'][8:]} Jun | {h['name']} | {h['role']} | {st} | {h['meals']} | {h['book']} | {r.get('method', '')} |")
+        eng = r.get("engine", "—") if h["check"] == "engine" else "—"
+        rows.append(f"| {h['night'][8:]} Jun | {h['name']} | {h['role']} | {st} | {eng} | {h['meals']} | {h['book']} | {r.get('method', '')} |")
     (ROOT / "STATUS.md").write_text(
         f"# {S['trip_name']} – status\n\nLast check: {now.astimezone(KL):%d %b %Y %H:%M} KL · "
         f"{now.astimezone(ROME):%H:%M} Italy\n\n" + "\n".join(rows) +

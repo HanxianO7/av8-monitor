@@ -5,14 +5,15 @@
     "stop_after": "2027-06-30",
     "error_after_runs": 3,
     "still_open_reminder_hours": 24,
+    "engine_every_hours": 24,
     "keywords": ["2027", "prenot", "booking", "book", "reserv", "buch", "anfrag", "apertur", "open", "geöffnet", "saison", "season", "stagione", "sommer", "summer", "estate"],
     "open_patterns": ["(2027).{0,80}(open|aperte|aperto|möglich|accepted|accettate|disponibil|buchbar|bookable)", "(open|aperte|accepted|buchbar|bookable).{0,80}(2027)"],
-    "available_patterns": ["dormitor", "camerata", "matratzenlager", "mehrbettzimmer", "lager", "bunk", "shared room", "€\\s?\\d{2,3}"],
+    "available_patterns": ["bed in dorm", "dormitor", "camerata", "posto letto", "matratzenlager", "lager"],
     "none_patterns": ["no availability", "not available", "nicht verfügbar", "keine verfügbarkeit", "non disponibil", "nessuna disponibilit", "sold out", "ausgebucht", "esaurit", "no rooms"]
   },
   "huts": [
     {"id": "plose", "night": "2027-06-23", "name": "Plose (Plosehütte)", "role": "preferred", "check": "engine",
-     "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?arrival={checkin}&departure={checkout}&adults={guests}",
+     "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?dateStart={checkin}&dateEnd={checkout}",
      "pages": ["https://www.plosehuette.com/"], "meals": "Half board offered", "book": "RoomRaccoon online"},
 
     {"id": "genova", "night": "2027-06-24", "name": "Genova (Schlüterhütte)", "role": "preferred", "check": "page",
@@ -24,7 +25,7 @@
      "meals": "Dinner à la carte", "book": "Email only"},
 
     {"id": "firenze", "night": "2027-06-27", "name": "Firenze (Regensburger Hütte)", "role": "preferred", "check": "engine",
-     "engine_url": "https://booking.roomraccoon.it/rifugio-firenze/en/?arrival={checkin}&departure={checkout}&adults={guests}",
+     "engine_url": "https://booking.roomraccoon.it/rifugio-firenze/en/?dateStart={checkin}&dateEnd={checkout}",
      "pages": ["https://www.rifugiofirenze.com/en/"], "meals": "B&B; half board only for groups of 10+", "book": "RoomRaccoon online, from Feb 2027"},
 
     {"id": "sassopiatto", "night": "2027-06-28", "name": "Sasso Piatto (Plattkofelhütte)", "role": "preferred", "check": "page",
