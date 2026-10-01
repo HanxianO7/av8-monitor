@@ -1,0 +1,2 @@
+engine fetch failed: reader 403
+https://booking.roomraccoon.it/rifugio-firenze/en/?arrival=2027-06-27&departure=2027-06-28&adults=2

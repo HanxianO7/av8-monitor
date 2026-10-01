@@ -1,8 +1,20 @@
 {
   "plose": {
-    "fails": 1,
-    "error": "reader 403",
-    "checked": "2026-10-01T13:03:45.896329+00:00"
+    "status": "watching (engine unreachable)",
+    "sentences": [
+      "Come raggiungere il Rifugio Plose Scopri come raggiungere il Rifugio Plose: indicazioni, percorsi e informazioni utili per arrivare in ogni stagione.",
+      "Prenota ora A 2.447 metri tra le Dolomiti dell’Alto Adige.",
+      "Prenota ora APERTO TUTTI I GIORNI DAL 23 MAGGIO AL 4 OTTOBRE Siamo un rifugio sospeso tra cielo e monti , dove il silenzio della natura incontra il calore di un’accoglienza autentica .",
+      "Scopri il rifugio Guarda la gallery Pacchetti Inverno 2026/2027 Dolomiti Superpremière Validità: da inizio stagione – 19/12/2026 (arrivo giornaliero, 4 notti) Sogna ad occhi aperti: svegliarsi a 2.447 metri e fare la prima traccia sulla neve fresca.",
+      "€ 390 no skipass/persona € 550 con skipass/persona Richiedi informazioni Settimane bianche Validità: 09.01.2027 - 30.01.2027 Primo giorno di validità dello skipass è 10.01.2027 La tua Settimana Bianca a 2.447m: 7 giorni di sci e panorama al prezzo di 6!"
+    ],
+    "fp": "6fb9170a2ca1",
+    "method": "direct",
+    "added": 0,
+    "engine": "engine unreachable",
+    "engine_method": "reader 403",
+    "fails": 0,
+    "checked": "2026-10-01T13:22:06.931956+00:00"
   },
   "genova": {
     "status": "watching",
@@ -30,7 +42,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:03:45.896329+00:00"
+    "checked": "2026-10-01T13:22:06.931956+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -43,12 +55,24 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:03:45.896329+00:00"
+    "checked": "2026-10-01T13:22:06.931956+00:00"
   },
   "firenze": {
-    "fails": 1,
-    "error": "reader 403",
-    "checked": "2026-10-01T13:03:45.896329+00:00"
+    "status": "PAGE SAYS 2027 OPEN - verify (engine unreachable)",
+    "sentences": [
+      "\"La mia vita al rifugio\" The book of Resi Perathoner More information and interesting stories about the life on the mountains in the book: \"My life on the hut\" - 70 years of management of the family Perathoner.",
+      "I agree Close Reservations Reservations for summer 2027 will be accepted from February 2027 through our booking system on our website.",
+      "Overnight stay A reservation is mandatory.",
+      "Restaurant from 11.30 AM to 3.00 PM Reduced menu from 3:00 PM We do not accept reservations for lunch The restaurant in the evening is mainly intended for the guests of the hut, but we also accept external guests (with reservation).",
+      "Welcome - Rifugio Firenze 2.040 m Utia de Ncisles Rifugio Firenze • Regensburgerhütte Position Restaurant Overnight stay Excursions History Open from 1st June to 11th October 2026 How to reach us The hut can only be reached on foot."
+    ],
+    "fp": "b2dab10e9ebf",
+    "method": "direct",
+    "added": 0,
+    "engine": "engine unreachable",
+    "engine_method": "reader 403",
+    "fails": 0,
+    "checked": "2026-10-01T13:22:06.931956+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -60,7 +84,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:03:45.896329+00:00"
+    "checked": "2026-10-01T13:22:06.931956+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -74,7 +98,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:03:45.896329+00:00"
+    "checked": "2026-10-01T13:22:06.931956+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -95,7 +119,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:03:45.896329+00:00"
+    "checked": "2026-10-01T13:22:06.931956+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -111,6 +135,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:03:45.896329+00:00"
+    "checked": "2026-10-01T13:22:06.931956+00:00"
   }
 }
