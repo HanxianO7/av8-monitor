@@ -32,6 +32,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          JINA_API_KEY: ${{ secrets.JINA_API_KEY }}
         run: python monitor.py ${{ inputs.test_alert && '--test-alert' || '' }}
       - name: Save state and STATUS.md
         if: ${{ !inputs.test_alert }}
