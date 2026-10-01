@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "trip_name": "Alta Via 8 (backup to AV1)",
+    "guests": 2,
+    "stop_after": "2027-06-30",
+    "error_after_runs": 3,
+    "still_open_reminder_hours": 24,
+    "keywords": ["2027", "prenot", "booking", "book", "reserv", "buch", "anfrag", "apertur", "open", "geöffnet", "saison", "season", "stagione", "sommer", "summer", "estate"],
+    "open_patterns": ["(2027).{0,80}(open|aperte|aperto|möglich|accepted|accettate|disponibil|buchbar|bookable)", "(open|aperte|accepted|buchbar|bookable).{0,80}(2027)"],
+    "available_patterns": ["dormitor", "camerata", "matratzenlager", "mehrbettzimmer", "lager", "bunk", "shared room", "€\\s?\\d{2,3}"],
+    "none_patterns": ["no availability", "not available", "nicht verfügbar", "keine verfügbarkeit", "non disponibil", "nessuna disponibilit", "sold out", "ausgebucht", "esaurit", "no rooms"]
+  },
+  "huts": [
+    {"id": "plose", "night": "2027-06-23", "name": "Plose (Plosehütte)", "role": "preferred", "check": "engine",
+     "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?arrival={checkin}&departure={checkout}&adults={guests}",
+     "pages": ["https://www.plosehuette.com/"], "meals": "Half board offered", "book": "RoomRaccoon online"},
+
+    {"id": "genova", "night": "2027-06-24", "name": "Genova (Schlüterhütte)", "role": "preferred", "check": "page",
+     "pages": ["https://www.schlueterhuette.com/en/overnight-stays-prices-schlueterhuette.html", "https://www.schlueterhuette.com/en/"],
+     "meals": "B&B; dinner for house guests, à la carte", "book": "Email/phone only, €20 pp deposit"},
+
+    {"id": "resciesa", "night": "2027-06-25", "name": "Resciesa (Raschötzhütte)", "role": "preferred", "check": "page",
+     "pages": ["https://www.rifugioresciesa.com/de/uebernachtung.html"],
+     "meals": "Dinner à la carte", "book": "Email only"},
+
+    {"id": "firenze", "night": "2027-06-27", "name": "Firenze (Regensburger Hütte)", "role": "preferred", "check": "engine",
+     "engine_url": "https://booking.roomraccoon.it/rifugio-firenze/en/?arrival={checkin}&departure={checkout}&adults={guests}",
+     "pages": ["https://www.rifugiofirenze.com/en/"], "meals": "B&B; half board only for groups of 10+", "book": "RoomRaccoon online, from Feb 2027"},
+
+    {"id": "sassopiatto", "night": "2027-06-28", "name": "Sasso Piatto (Plattkofelhütte)", "role": "preferred", "check": "page",
+     "pages": ["https://www.plattkofel.com/en/rifugio-sasso-piatto/welcome.html", "https://www.plattkofel.com/en/enquiry-booking/book-online.html"],
+     "meals": "Half board (per reviews)", "book": "Email (official site)"},
+
+    {"id": "molignon", "night": "2027-06-29", "name": "Molignon (Mahlknechthütte)", "role": "preferred", "check": "page",
+     "pages": ["https://www.seiseralm.it/en/info/accommodation/C9C59684C98A41DEA4D0401115D23A1F-molignon-rifugio-mahlknechthuette.html", "https://www.molignon.it/en"],
+     "meals": "Check (dinner on pre-order)", "book": "Online via seiseralm.it / suedtirol.info"},
+
+    {"id": "tierseralpl", "night": "2027-06-30", "name": "Tierser Alpl (Alpe di Tires)", "role": "preferred (half board)", "check": "page",
+     "pages": ["https://www.tierseralpl.com/en/"], "meals": "Half board from €97 (6-12 bed room)", "book": "Online"},
+
+    {"id": "schlernhaus", "night": "2027-06-30", "name": "Schlernhaus (Rifugio Bolzano)", "role": "backup", "check": "page",
+     "pages": ["https://www.schlernhaus.it/en/accommodation/book", "https://www.schlernhaus.it/en"],
+     "meals": "B&B; dinner extra", "book": "Request form (JS)"}
+  ]
+}
