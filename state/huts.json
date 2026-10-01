@@ -1,6 +1,6 @@
 {
   "plose": {
-    "status": "watching",
+    "status": "ROOMS SHOWN - dorm price listed",
     "sentences": [
       "Come raggiungere il Rifugio Plose Scopri come raggiungere il Rifugio Plose: indicazioni, percorsi e informazioni utili per arrivare in ogni stagione.",
       "Prenota ora A 2.447 metri tra le Dolomiti dell’Alto Adige.",
@@ -11,10 +11,13 @@
     "fp": "6fb9170a2ca1",
     "method": "direct",
     "added": 0,
-    "engine": "unclear - see debug",
+    "engine": "ROOMS SHOWN - dorm price listed",
     "engine_method": "reader",
+    "engine_at": "2026-10-01T14:07:27.627403",
+    "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?dateStart=23-06-2027&dateEnd=24-06-2027",
+    "rooms_alert_at": "2026-10-01T14:07:27.627471",
     "fails": 0,
-    "checked": "2026-10-01T13:37:00.943073+00:00"
+    "checked": "2026-10-01T14:07:16.397167+00:00"
   },
   "genova": {
     "status": "watching",
@@ -42,7 +45,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:37:00.943073+00:00"
+    "checked": "2026-10-01T14:07:16.397167+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -55,7 +58,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:37:00.943073+00:00"
+    "checked": "2026-10-01T14:07:16.397167+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify",
@@ -69,10 +72,12 @@
     "fp": "b2dab10e9ebf",
     "method": "direct",
     "added": 0,
-    "engine": "no rooms / not open",
+    "engine": "no dorm beds shown",
     "engine_method": "reader",
+    "engine_at": "2026-10-01T14:07:45.107248",
+    "engine_url": "https://booking.roomraccoon.it/rifugio-firenze/en/?dateStart=27-06-2027&dateEnd=28-06-2027",
     "fails": 0,
-    "checked": "2026-10-01T13:37:00.943073+00:00"
+    "checked": "2026-10-01T14:07:16.397167+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -84,7 +89,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:37:00.943073+00:00"
+    "checked": "2026-10-01T14:07:16.397167+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -98,7 +103,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:37:00.943073+00:00"
+    "checked": "2026-10-01T14:07:16.397167+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -119,7 +124,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:37:00.943073+00:00"
+    "checked": "2026-10-01T14:07:16.397167+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -135,6 +140,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:37:00.943073+00:00"
+    "checked": "2026-10-01T14:07:16.397167+00:00"
   }
 }
