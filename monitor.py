@@ -79,7 +79,10 @@ def fetch(url, rendered=False):
         except Exception as e:
             errors.append(f"browser {type(e).__name__}")
     try:
-        r = requests.get("https://r.jina.ai/" + url, headers={**UA, "X-Return-Format": "text"}, timeout=60)
+        h = {**UA, "X-Return-Format": "text"}
+        if os.getenv("JINA_API_KEY"):
+            h["Authorization"] = "Bearer " + os.getenv("JINA_API_KEY")
+        r = requests.get("https://r.jina.ai/" + url, headers=h, timeout=60)
         if r.ok and len(r.text) > 200:
             return re.sub(r"\s+", " ", r.text), "reader"
         errors.append(f"reader {r.status_code}")
@@ -133,8 +136,14 @@ def check_engine(hut, prev):
     n = datetime.strptime(hut["night"], "%Y-%m-%d").date()
     url = hut["engine_url"].format(checkin=n.isoformat(), checkout=(n + timedelta(days=1)).isoformat(),
                                    guests=S["guests"])
-    text, how = fetch(url, rendered=True)
+    page_res, alerts = check_pages(hut, prev)  # page watch always runs
     DEBUG.mkdir(parents=True, exist_ok=True)
+    try:
+        text, how = fetch(url, rendered=True)
+    except Exception as e:
+        (DEBUG / f"{hut['id']}.txt").write_text(f"engine fetch failed: {e}\n{url}")
+        return {**page_res, "engine": "engine unreachable", "engine_method": str(e)[:80],
+                "status": page_res["status"] + " (engine unreachable)"}, alerts
     (DEBUG / f"{hut['id']}.txt").write_text(text[:20000])
     low = text.lower()
     none_hit = matches(S["none_patterns"], low)
@@ -145,7 +154,6 @@ def check_engine(hut, prev):
         eng = "ROOMS SHOWN - verify dorm"
     else:
         eng = "unclear - see debug"
-    page_res, alerts = check_pages(hut, prev)
     res = {**page_res, "engine": eng, "engine_method": how, "status":
            eng if eng.startswith("ROOMS") else page_res["status"]}
     if eng.startswith("ROOMS"):
