@@ -1,6 +1,6 @@
 {
   "plose": {
-    "status": "watching (engine unreachable)",
+    "status": "watching",
     "sentences": [
       "Come raggiungere il Rifugio Plose Scopri come raggiungere il Rifugio Plose: indicazioni, percorsi e informazioni utili per arrivare in ogni stagione.",
       "Prenota ora A 2.447 metri tra le Dolomiti dell’Alto Adige.",
@@ -11,10 +11,10 @@
     "fp": "6fb9170a2ca1",
     "method": "direct",
     "added": 0,
-    "engine": "engine unreachable",
-    "engine_method": "reader 403",
+    "engine": "unclear - see debug",
+    "engine_method": "reader",
     "fails": 0,
-    "checked": "2026-10-01T13:29:50.918412+00:00"
+    "checked": "2026-10-01T13:37:00.943073+00:00"
   },
   "genova": {
     "status": "watching",
@@ -42,7 +42,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:29:50.918412+00:00"
+    "checked": "2026-10-01T13:37:00.943073+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -55,10 +55,10 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:29:50.918412+00:00"
+    "checked": "2026-10-01T13:37:00.943073+00:00"
   },
   "firenze": {
-    "status": "PAGE SAYS 2027 OPEN - verify (engine unreachable)",
+    "status": "PAGE SAYS 2027 OPEN - verify",
     "sentences": [
       "\"La mia vita al rifugio\" The book of Resi Perathoner More information and interesting stories about the life on the mountains in the book: \"My life on the hut\" - 70 years of management of the family Perathoner.",
       "I agree Close Reservations Reservations for summer 2027 will be accepted from February 2027 through our booking system on our website.",
@@ -69,10 +69,10 @@
     "fp": "b2dab10e9ebf",
     "method": "direct",
     "added": 0,
-    "engine": "engine unreachable",
-    "engine_method": "reader 403",
+    "engine": "no rooms / not open",
+    "engine_method": "reader",
     "fails": 0,
-    "checked": "2026-10-01T13:29:50.918412+00:00"
+    "checked": "2026-10-01T13:37:00.943073+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -84,7 +84,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:29:50.918412+00:00"
+    "checked": "2026-10-01T13:37:00.943073+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -98,7 +98,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:29:50.918412+00:00"
+    "checked": "2026-10-01T13:37:00.943073+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -119,7 +119,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:29:50.918412+00:00"
+    "checked": "2026-10-01T13:37:00.943073+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -135,6 +135,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-01T13:29:50.918412+00:00"
+    "checked": "2026-10-01T13:37:00.943073+00:00"
   }
 }
