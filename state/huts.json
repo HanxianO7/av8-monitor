@@ -11,14 +11,14 @@
     ],
     "fp": "8f47d8a4ba38",
     "method": "reader",
-    "added": 5,
+    "added": 0,
     "engine": "ROOMS SHOWN - dorm price listed",
     "engine_method": "reader",
     "engine_at": "2026-10-02T15:08:01.187710",
     "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?dateStart=23-06-2027&dateEnd=24-06-2027",
     "rooms_alert_at": "2026-10-02T15:08:01.187775",
     "fails": 0,
-    "checked": "2026-10-03T13:07:11.985418+00:00"
+    "checked": "2026-10-03T14:07:12.232055+00:00"
   },
   "genova": {
     "status": "watching",
@@ -46,7 +46,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-03T13:07:11.985418+00:00"
+    "checked": "2026-10-03T14:07:12.232055+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -59,7 +59,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-03T13:07:11.985418+00:00"
+    "checked": "2026-10-03T14:07:12.232055+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify",
@@ -78,7 +78,7 @@
     "engine_at": "2026-10-02T15:08:18.013963",
     "engine_url": "https://booking.roomraccoon.it/rifugio-firenze/en/?dateStart=27-06-2027&dateEnd=28-06-2027",
     "fails": 0,
-    "checked": "2026-10-03T13:07:11.985418+00:00"
+    "checked": "2026-10-03T14:07:12.232055+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -90,7 +90,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-03T13:07:11.985418+00:00"
+    "checked": "2026-10-03T14:07:12.232055+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -104,7 +104,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-03T13:07:11.985418+00:00"
+    "checked": "2026-10-03T14:07:12.232055+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -125,7 +125,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-03T13:07:11.985418+00:00"
+    "checked": "2026-10-03T14:07:12.232055+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -141,6 +141,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-03T13:07:11.985418+00:00"
+    "checked": "2026-10-03T14:07:12.232055+00:00"
   }
 }
