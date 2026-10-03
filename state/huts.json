@@ -17,7 +17,7 @@
     "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?dateStart=23-06-2027&dateEnd=24-06-2027",
     "rooms_alert_at": "2026-10-03T16:07:21.101872",
     "fails": 0,
-    "checked": "2026-10-03T17:24:36.231550+00:00"
+    "checked": "2026-10-03T18:07:14.006823+00:00"
   },
   "genova": {
     "status": "watching",
@@ -45,7 +45,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-03T17:24:36.231550+00:00"
+    "checked": "2026-10-03T18:07:14.006823+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -58,7 +58,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-03T17:24:36.231550+00:00"
+    "checked": "2026-10-03T18:07:14.006823+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify",
@@ -77,18 +77,19 @@
     "engine_at": "2026-10-03T16:07:40.068599",
     "engine_url": "https://booking.roomraccoon.it/rifugio-firenze/en/?dateStart=27-06-2027&dateEnd=28-06-2027",
     "fails": 0,
-    "checked": "2026-10-03T17:24:36.231550+00:00"
+    "checked": "2026-10-03T18:07:14.006823+00:00"
   },
   "sassopiatto": {
     "status": "watching",
     "sentences": [
-      "Here, a paradise opens up to you: All around our Alpine hut in the Dolomites is Europe’s largest Alpine pasture, where calves and sheep graze."
+      "Here, a paradise opens up to you: All around our Alpine hut in the Dolomites is Europe’s largest Alpine pasture, where calves and sheep graze.",
+      "Traditional South Tyrolean dishes We love searching through grandma’s cookbook for traditional South Tyrolean dishes, to which we add the finest Mediterranean herbs."
     ],
-    "fp": "14fcdd57edbb",
-    "method": "reader/reader",
-    "added": 0,
+    "fp": "ac19a5145873",
+    "method": "direct/direct",
+    "added": 1,
     "fails": 0,
-    "checked": "2026-10-03T17:24:36.231550+00:00"
+    "checked": "2026-10-03T18:07:14.006823+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -101,9 +102,8 @@
     "fp": "81bc2b90c94e",
     "method": "direct/direct",
     "added": 0,
-    "fails": 2,
-    "checked": "2026-10-03T17:24:36.231550+00:00",
-    "error": "direct ReadTimeout; browser Timeout; reader ReadTimeout"
+    "fails": 0,
+    "checked": "2026-10-03T18:07:14.006823+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -124,7 +124,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-03T17:24:36.231550+00:00"
+    "checked": "2026-10-03T18:07:14.006823+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -140,6 +140,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-03T17:24:36.231550+00:00"
+    "checked": "2026-10-03T18:07:14.006823+00:00"
   }
 }
