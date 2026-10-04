@@ -79,3 +79,4 @@
 {"t": "2026-10-04T04:07:14.026998+00:00", "alerts": []}
 {"t": "2026-10-04T05:07:15.064960+00:00", "alerts": []}
 {"t": "2026-10-04T06:07:11.686235+00:00", "alerts": []}
+{"t": "2026-10-04T07:00:21.218933+00:00", "alerts": ["⚠️ Plose (Plosehütte): check failed 3 runs in a row (direct 202; browser 202; reader 200). Check by hand."]}
