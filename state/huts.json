@@ -16,8 +16,8 @@
     "engine_at": "2026-10-06T20:07:31.474371",
     "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?dateStart=23-06-2027&dateEnd=24-06-2027",
     "rooms_alert_at": "2026-10-06T20:07:31.474420",
-    "fails": 1,
-    "checked": "2026-10-07T09:07:14.121347+00:00",
+    "fails": 2,
+    "checked": "2026-10-07T10:07:13.904136+00:00",
     "error": "direct 202; browser 202; reader 200"
   },
   "genova": {
@@ -46,7 +46,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-07T09:07:14.121347+00:00"
+    "checked": "2026-10-07T10:07:13.904136+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -59,7 +59,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-07T09:07:14.121347+00:00"
+    "checked": "2026-10-07T10:07:13.904136+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify (engine unreachable)",
@@ -76,7 +76,7 @@
     "engine": "engine unreachable",
     "engine_method": "reader 200",
     "fails": 0,
-    "checked": "2026-10-07T09:07:14.121347+00:00"
+    "checked": "2026-10-07T10:07:13.904136+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -89,7 +89,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-07T09:07:14.121347+00:00"
+    "checked": "2026-10-07T10:07:13.904136+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -103,7 +103,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-07T09:07:14.121347+00:00"
+    "checked": "2026-10-07T10:07:13.904136+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -124,7 +124,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-07T09:07:14.121347+00:00"
+    "checked": "2026-10-07T10:07:13.904136+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -140,6 +140,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-07T09:07:14.121347+00:00"
+    "checked": "2026-10-07T10:07:13.904136+00:00"
   }
 }
