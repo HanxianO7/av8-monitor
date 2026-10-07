@@ -2,22 +2,23 @@
   "plose": {
     "status": "ROOMS SHOWN - dorm price listed",
     "sentences": [
+      "BOOK NOW At 2,447 meters in the Dolomites of South Tyrol.",
+      "BOOK NOW OPEN EVERY DAY FROM MAY 23RD TO OCTOBER 4TH We are a refuge suspended between the sky and the mountains , where the silence of nature meets the warmth of an authentic welcome .",
       "Come raggiungere il Rifugio Plose Scopri come raggiungere il Rifugio Plose: indicazioni, percorsi e informazioni utili per arrivare in ogni stagione.",
-      "PRENOTA ORA A 2.447 metri tra le Dolomiti dell’Alto Adige.",
-      "PRENOTA ORA APERTO TUTTI I GIORNI DAL 23 MAGGIO AL 4 OTTOBRE Siamo un rifugio sospeso tra cielo e monti, dove il silenzio della natura incontra il calore di un’accoglienza autentica.",
-      "SCOPRI IL RIFUGIO GUARDA LA GALLERY Pacchetti Inverno 2026/2027 Dolomiti Superpremière Validità: da inizio stagione – 19/12/2026 (arrivo giornaliero, 4 notti) Sogna ad occhi aperti: svegliarsi a 2.447 metri e fare la prima traccia sulla neve fresca.",
-      "€ 390 no skipass/persona € 550 con skipass/persona RICHIEDI INFORMAZIONI Settimane bianche Validità: 09.01.2027 - 30.01.2027 Primo giorno di validità dello skipass è 10.01.2027 La tua Settimana Bianca a 2.447m: 7 giorni di sci e panorama al prezzo di 6!"
+      "DISCOVER THE REFUGE SEE THE GALLERY Winter Packages 2026/2027 Dolomiti Superpremière Validity: from the beginning of the season – 19/12/2026 (daily arrival, 4 nights) Daydream: waking up at 2,447 meters and making the first track in fresh snow.",
+      "Necessary Experience Measurement Find out more Reject everything Accept all Created with iubenda (link opens in a new tab)",
+      "€390 without ski pass/person €550 with ski pass/person REQUEST INFORMATION White weeks Validity: 09.01.2027 - 30.01.2027 First day of validity of the ski pass is 10.01.2027 Your Ski Week at 2,447m: 7 days of skiing and panoramic views for the price of 6!"
     ],
-    "fp": "91cdeb50736c",
+    "fp": "8f47d8a4ba38",
     "method": "reader",
-    "added": 4,
+    "added": 5,
     "engine": "ROOMS SHOWN - dorm price listed",
     "engine_method": "reader",
     "engine_at": "2026-10-06T20:07:31.474371",
     "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?dateStart=23-06-2027&dateEnd=24-06-2027",
     "rooms_alert_at": "2026-10-06T20:07:31.474420",
     "fails": 0,
-    "checked": "2026-10-07T19:07:17.804437+00:00"
+    "checked": "2026-10-07T20:07:17.006939+00:00"
   },
   "genova": {
     "status": "watching",
@@ -45,7 +46,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-07T19:07:17.804437+00:00"
+    "checked": "2026-10-07T20:07:17.006939+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -58,7 +59,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-07T19:07:17.804437+00:00"
+    "checked": "2026-10-07T20:07:17.006939+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify (engine unreachable)",
@@ -75,7 +76,7 @@
     "engine": "engine unreachable",
     "engine_method": "reader 200",
     "fails": 0,
-    "checked": "2026-10-07T19:07:17.804437+00:00"
+    "checked": "2026-10-07T20:07:17.006939+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -88,7 +89,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-07T19:07:17.804437+00:00"
+    "checked": "2026-10-07T20:07:17.006939+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -102,7 +103,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-07T19:07:17.804437+00:00"
+    "checked": "2026-10-07T20:07:17.006939+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -123,7 +124,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-07T19:07:17.804437+00:00"
+    "checked": "2026-10-07T20:07:17.006939+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -139,6 +140,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-07T19:07:17.804437+00:00"
+    "checked": "2026-10-07T20:07:17.006939+00:00"
   }
 }
