@@ -17,7 +17,7 @@
     "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?dateStart=23-06-2027&dateEnd=24-06-2027",
     "rooms_alert_at": "2026-10-07T21:07:32.411194",
     "fails": 0,
-    "checked": "2026-10-08T13:07:26.009106+00:00"
+    "checked": "2026-10-08T14:07:14.817028+00:00"
   },
   "genova": {
     "status": "watching",
@@ -45,7 +45,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-08T13:07:26.009106+00:00"
+    "checked": "2026-10-08T14:07:14.817028+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -58,7 +58,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-08T13:07:26.009106+00:00"
+    "checked": "2026-10-08T14:07:14.817028+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify (engine unreachable)",
@@ -67,15 +67,15 @@
       "I agree Close Reservations Reservations for summer 2027 will be accepted from February 2027 through our booking system on our website.",
       "Overnight stay A reservation is mandatory.",
       "Restaurant from 11.30 AM to 3.00 PM Reduced menu from 3:00 PM We do not accept reservations for lunch The restaurant in the evening is mainly intended for the guests of the hut, but we also accept external guests (with reservation).",
-      "Welcome - Rifugio Firenze 2.040 m Utia de Ncisles Rifugio Firenze • Regensburgerhütte Position Restaurant Overnight stay Excursions History Open from 1st June to 11th October 2026 How to reach us The hut can only be reached on foot."
+      "Welcome - Rifugio Firenze 2.040 m Utia de Ncisles Rifugio Firenze • Regensburgerhütte Position Restaurant Overnight stay Excursions History Open until 18th October (no overnight stays) How to reach us The hut can only be reached on foot."
     ],
-    "fp": "b2dab10e9ebf",
+    "fp": "c9447cd0bfe1",
     "method": "direct",
-    "added": 0,
+    "added": 1,
     "engine": "engine unreachable",
     "engine_method": "reader 200",
     "fails": 0,
-    "checked": "2026-10-08T13:07:26.009106+00:00"
+    "checked": "2026-10-08T14:07:14.817028+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -88,7 +88,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-08T13:07:26.009106+00:00"
+    "checked": "2026-10-08T14:07:14.817028+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -102,7 +102,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-08T13:07:26.009106+00:00"
+    "checked": "2026-10-08T14:07:14.817028+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -123,7 +123,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-08T13:07:26.009106+00:00"
+    "checked": "2026-10-08T14:07:14.817028+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -139,6 +139,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-08T13:07:26.009106+00:00"
+    "checked": "2026-10-08T14:07:14.817028+00:00"
   }
 }
