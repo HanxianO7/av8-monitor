@@ -17,7 +17,7 @@
     "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?dateStart=23-06-2027&dateEnd=24-06-2027",
     "rooms_alert_at": "2026-10-08T22:07:33.854218",
     "fails": 0,
-    "checked": "2026-10-09T03:07:16.066183+00:00"
+    "checked": "2026-10-09T04:07:15.800017+00:00"
   },
   "genova": {
     "status": "watching",
@@ -45,7 +45,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-09T03:07:16.066183+00:00"
+    "checked": "2026-10-09T04:07:15.800017+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -58,7 +58,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-09T03:07:16.066183+00:00"
+    "checked": "2026-10-09T04:07:15.800017+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify (engine unreachable)",
@@ -75,19 +75,20 @@
     "engine": "engine unreachable",
     "engine_method": "reader 200",
     "fails": 0,
-    "checked": "2026-10-09T03:07:16.066183+00:00"
+    "checked": "2026-10-09T04:07:15.800017+00:00"
   },
   "sassopiatto": {
     "status": "watching",
     "sentences": [
-      "2027 Alpine hut in the Dolomites Rifugio Sasso Piatto on Alpe di Siusi “Grießtenk”, or “welcome” to our Rifugio Sasso Piatto with beautiful 360° views of the Dolomite peaks of Sassopiatto, Marmolada, Sass Pordoi, Sciliar, Denti di Terrarossa, Alpe di Siusi, Molignon, Catinaccio and Ötztal Alps.",
-      "Here, a paradise opens up to you: All around our Alpine hut in the Dolomites is Europe’s largest Alpine pasture, where calves and sheep graze."
+      "2027 Alpine hut in the Dolomites Rifugio Sasso Piatto on Alpe di Siusi “ Grießtenk ”, or “welcome” to our Rifugio Sasso Piatto with beautiful 360° views of the Dolomite peaks of Sassopiatto, Marmolada, Sass Pordoi, Sciliar, Denti di Terrarossa, Alpe di Siusi, Molignon, Catinaccio and Ötztal Alps.",
+      "Here, a paradise opens up to you: All around our Alpine hut in the Dolomites is Europe’s largest Alpine pasture, where calves and sheep graze.",
+      "Traditional South Tyrolean dishes We love searching through grandma’s cookbook for traditional South Tyrolean dishes, to which we add the finest Mediterranean herbs."
     ],
-    "fp": "16788504722c",
-    "method": "reader/reader",
-    "added": 1,
+    "fp": "2a3bcb1cb8b3",
+    "method": "direct/direct",
+    "added": 2,
     "fails": 0,
-    "checked": "2026-10-09T03:07:16.066183+00:00"
+    "checked": "2026-10-09T04:07:15.800017+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -101,7 +102,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-09T03:07:16.066183+00:00"
+    "checked": "2026-10-09T04:07:15.800017+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -122,7 +123,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-09T03:07:16.066183+00:00"
+    "checked": "2026-10-09T04:07:15.800017+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -138,6 +139,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-09T03:07:16.066183+00:00"
+    "checked": "2026-10-09T04:07:15.800017+00:00"
   }
 }
