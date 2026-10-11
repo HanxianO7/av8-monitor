@@ -1,6 +1,6 @@
 {
   "plose": {
-    "status": "watching (engine unreachable)",
+    "status": "ROOMS SHOWN - dorm price listed",
     "sentences": [
       "BOOK NOW At 2,447 meters in the Dolomites of South Tyrol.",
       "BOOK NOW OPEN EVERY DAY FROM MAY 23RD TO OCTOBER 4TH We are a refuge suspended between the sky and the mountains , where the silence of nature meets the warmth of an authentic welcome .",
@@ -12,10 +12,13 @@
     "fp": "8f47d8a4ba38",
     "method": "reader",
     "added": 0,
-    "engine": "engine unreachable",
-    "engine_method": "reader 200",
+    "engine": "ROOMS SHOWN - dorm price listed",
+    "engine_method": "reader",
+    "engine_at": "2026-10-11T05:57:48.793409",
+    "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?dateStart=23-06-2027&dateEnd=24-06-2027",
+    "rooms_alert_at": "2026-10-11T05:57:48.793456",
     "fails": 0,
-    "checked": "2026-10-11T05:07:15.104343+00:00"
+    "checked": "2026-10-11T05:57:37.504887+00:00"
   },
   "genova": {
     "status": "watching",
@@ -43,7 +46,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-11T05:07:15.104343+00:00"
+    "checked": "2026-10-11T05:57:37.504887+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -56,7 +59,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-11T05:07:15.104343+00:00"
+    "checked": "2026-10-11T05:57:37.504887+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify (engine unreachable)",
@@ -73,7 +76,7 @@
     "engine": "engine unreachable",
     "engine_method": "reader 200",
     "fails": 0,
-    "checked": "2026-10-11T05:07:15.104343+00:00"
+    "checked": "2026-10-11T05:57:37.504887+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -86,7 +89,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-11T05:07:15.104343+00:00"
+    "checked": "2026-10-11T05:57:37.504887+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -100,7 +103,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-11T05:07:15.104343+00:00"
+    "checked": "2026-10-11T05:57:37.504887+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -121,7 +124,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-11T05:07:15.104343+00:00"
+    "checked": "2026-10-11T05:57:37.504887+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -137,6 +140,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-11T05:07:15.104343+00:00"
+    "checked": "2026-10-11T05:57:37.504887+00:00"
   }
 }
