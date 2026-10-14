@@ -16,8 +16,8 @@
     "engine_at": "2026-10-13T09:32:23.120694",
     "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?dateStart=23-06-2027&dateEnd=24-06-2027",
     "rooms_alert_at": "2026-10-13T09:32:23.120746",
-    "fails": 4,
-    "checked": "2026-10-14T07:45:14.404543+00:00",
+    "fails": 5,
+    "checked": "2026-10-14T13:49:03.584061+00:00",
     "error": "direct 403; browser 403; reader 200"
   },
   "genova": {
@@ -46,7 +46,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-14T07:45:14.404543+00:00"
+    "checked": "2026-10-14T13:49:03.584061+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -59,7 +59,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-14T07:45:14.404543+00:00"
+    "checked": "2026-10-14T13:49:03.584061+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify",
@@ -78,7 +78,7 @@
     "engine_at": "2026-10-13T22:53:14.272806",
     "engine_url": "https://booking.roomraccoon.it/rifugio-firenze/en/?dateStart=27-06-2027&dateEnd=28-06-2027",
     "fails": 0,
-    "checked": "2026-10-14T07:45:14.404543+00:00"
+    "checked": "2026-10-14T13:49:03.584061+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -91,7 +91,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-14T07:45:14.404543+00:00"
+    "checked": "2026-10-14T13:49:03.584061+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -105,7 +105,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-14T07:45:14.404543+00:00"
+    "checked": "2026-10-14T13:49:03.584061+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -126,7 +126,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-14T07:45:14.404543+00:00"
+    "checked": "2026-10-14T13:49:03.584061+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -142,6 +142,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-14T07:45:14.404543+00:00"
+    "checked": "2026-10-14T13:49:03.584061+00:00"
   }
 }
