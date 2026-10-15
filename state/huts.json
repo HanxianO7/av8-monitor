@@ -16,8 +16,8 @@
     "engine_at": "2026-10-13T09:32:23.120694",
     "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?dateStart=23-06-2027&dateEnd=24-06-2027",
     "rooms_alert_at": "2026-10-13T09:32:23.120746",
-    "fails": 8,
-    "checked": "2026-10-15T01:33:00.789800+00:00",
+    "fails": 9,
+    "checked": "2026-10-15T05:07:17.722329+00:00",
     "error": "direct 202; browser 202; reader 200"
   },
   "genova": {
@@ -46,7 +46,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T01:33:00.789800+00:00"
+    "checked": "2026-10-15T05:07:17.722329+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -59,7 +59,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T01:33:00.789800+00:00"
+    "checked": "2026-10-15T05:07:17.722329+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify",
@@ -78,7 +78,7 @@
     "engine_at": "2026-10-15T01:33:24.462448",
     "engine_url": "https://booking.roomraccoon.it/rifugio-firenze/en/?dateStart=27-06-2027&dateEnd=28-06-2027",
     "fails": 0,
-    "checked": "2026-10-15T01:33:00.789800+00:00"
+    "checked": "2026-10-15T05:07:17.722329+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -91,7 +91,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T01:33:00.789800+00:00"
+    "checked": "2026-10-15T05:07:17.722329+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -102,10 +102,10 @@
       "Send your non-binding request Facebook Instagram +39 0471 727 912 info@molignon.it schutzhaus molignon Joch 28"
     ],
     "fp": "81bc2b90c94e",
-    "method": "reader/direct",
+    "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T01:33:00.789800+00:00"
+    "checked": "2026-10-15T05:07:17.722329+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -126,7 +126,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T01:33:00.789800+00:00"
+    "checked": "2026-10-15T05:07:17.722329+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -142,6 +142,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T01:33:00.789800+00:00"
+    "checked": "2026-10-15T05:07:17.722329+00:00"
   }
 }
