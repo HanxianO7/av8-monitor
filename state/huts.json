@@ -12,8 +12,9 @@
     "added": 1,
     "engine": "engine unreachable",
     "engine_method": "reader 200",
-    "fails": 0,
-    "checked": "2026-10-15T07:32:46.550793+00:00"
+    "fails": 1,
+    "checked": "2026-10-15T13:30:59.150117+00:00",
+    "error": "direct 403; browser 403; reader 200"
   },
   "genova": {
     "status": "watching",
@@ -41,7 +42,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T07:32:46.550793+00:00"
+    "checked": "2026-10-15T13:30:59.150117+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -54,7 +55,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T07:32:46.550793+00:00"
+    "checked": "2026-10-15T13:30:59.150117+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify",
@@ -73,7 +74,7 @@
     "engine_at": "2026-10-15T01:33:24.462448",
     "engine_url": "https://booking.roomraccoon.it/rifugio-firenze/en/?dateStart=27-06-2027&dateEnd=28-06-2027",
     "fails": 0,
-    "checked": "2026-10-15T07:32:46.550793+00:00"
+    "checked": "2026-10-15T13:30:59.150117+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -86,7 +87,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T07:32:46.550793+00:00"
+    "checked": "2026-10-15T13:30:59.150117+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -100,7 +101,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T07:32:46.550793+00:00"
+    "checked": "2026-10-15T13:30:59.150117+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -121,7 +122,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T07:32:46.550793+00:00"
+    "checked": "2026-10-15T13:30:59.150117+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -137,6 +138,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T07:32:46.550793+00:00"
+    "checked": "2026-10-15T13:30:59.150117+00:00"
   }
 }
