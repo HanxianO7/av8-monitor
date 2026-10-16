@@ -2,21 +2,18 @@
   "plose": {
     "status": "watching (engine unreachable)",
     "sentences": [
-      "BOOK NOW At 2,447 meters in the Dolomites of South Tyrol.",
-      "BOOK NOW OPEN EVERY DAY FROM MAY 23RD TO OCTOBER 4TH We are a refuge suspended between the sky and the mountains , where the silence of nature meets the warmth of an authentic welcome .",
       "Come raggiungere il Rifugio Plose Scopri come raggiungere il Rifugio Plose: indicazioni, percorsi e informazioni utili per arrivare in ogni stagione.",
       "DISCOVER THE REFUGE SEE THE GALLERY Winter Packages 2026/2027 Dolomiti Superpremière Validity: from the beginning of the season – 19/12/2026 (daily arrival, 4 nights) Daydream: waking up at 2,447 meters and making the first track in fresh snow.",
-      "Necessary Experience Measurement Find out more Reject everything Accept all Created with iubenda (link opens in a new tab)",
+      "OPEN EVERY DAY FROM MAY 23RD TO OCTOBER 4TH We are a refuge suspended between the sky and the mountains , where the silence of nature meets the warmth of an authentic welcome .",
       "€390 without ski pass/person €550 with ski pass/person REQUEST INFORMATION White weeks Validity: 09.01.2027 - 30.01.2027 First day of validity of the ski pass is 10.01.2027 Your Ski Week at 2,447m: 7 days of skiing and panoramic views for the price of 6!"
     ],
-    "fp": "8f47d8a4ba38",
+    "fp": "00dabb4bd334",
     "method": "reader",
-    "added": 3,
+    "added": 1,
     "engine": "engine unreachable",
     "engine_method": "reader 200",
-    "fails": 1,
-    "checked": "2026-10-15T22:25:46.984045+00:00",
-    "error": "direct 403; browser 403; reader 200"
+    "fails": 0,
+    "checked": "2026-10-16T01:27:43.678914+00:00"
   },
   "genova": {
     "status": "watching",
@@ -44,7 +41,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T22:25:46.984045+00:00"
+    "checked": "2026-10-16T01:27:43.678914+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -57,7 +54,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T22:25:46.984045+00:00"
+    "checked": "2026-10-16T01:27:43.678914+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify",
@@ -76,7 +73,7 @@
     "engine_at": "2026-10-15T01:33:24.462448",
     "engine_url": "https://booking.roomraccoon.it/rifugio-firenze/en/?dateStart=27-06-2027&dateEnd=28-06-2027",
     "fails": 0,
-    "checked": "2026-10-15T22:25:46.984045+00:00"
+    "checked": "2026-10-16T01:27:43.678914+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -89,7 +86,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T22:25:46.984045+00:00"
+    "checked": "2026-10-16T01:27:43.678914+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -103,7 +100,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T22:25:46.984045+00:00"
+    "checked": "2026-10-16T01:27:43.678914+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -124,7 +121,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T22:25:46.984045+00:00"
+    "checked": "2026-10-16T01:27:43.678914+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -140,6 +137,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-15T22:25:46.984045+00:00"
+    "checked": "2026-10-16T01:27:43.678914+00:00"
   }
 }
