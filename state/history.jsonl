@@ -261,3 +261,4 @@
 {"t": "2026-10-16T01:27:43.678914+00:00", "alerts": []}
 {"t": "2026-10-16T05:07:12.424866+00:00", "alerts": []}
 {"t": "2026-10-16T07:17:55.809371+00:00", "alerts": []}
+{"t": "2026-10-16T13:19:09.000803+00:00", "alerts": ["⚠️ Plose (Plosehütte): check failed 3 runs in a row (direct ConnectionError; browser HTTPError; reader 200). Check by hand."]}
