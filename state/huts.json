@@ -12,8 +12,8 @@
     "added": 1,
     "engine": "engine unreachable",
     "engine_method": "reader 200",
-    "fails": 1,
-    "checked": "2026-10-16T05:07:12.424866+00:00",
+    "fails": 2,
+    "checked": "2026-10-16T07:17:55.809371+00:00",
     "error": "direct 403; browser 403; reader 200"
   },
   "genova": {
@@ -42,7 +42,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-16T05:07:12.424866+00:00"
+    "checked": "2026-10-16T07:17:55.809371+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -55,7 +55,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-16T05:07:12.424866+00:00"
+    "checked": "2026-10-16T07:17:55.809371+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify (engine unreachable)",
@@ -72,7 +72,7 @@
     "engine": "engine unreachable",
     "engine_method": "reader 200",
     "fails": 0,
-    "checked": "2026-10-16T05:07:12.424866+00:00"
+    "checked": "2026-10-16T07:17:55.809371+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -85,7 +85,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-16T05:07:12.424866+00:00"
+    "checked": "2026-10-16T07:17:55.809371+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -99,7 +99,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-16T05:07:12.424866+00:00"
+    "checked": "2026-10-16T07:17:55.809371+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -120,7 +120,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-16T05:07:12.424866+00:00"
+    "checked": "2026-10-16T07:17:55.809371+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -136,6 +136,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-16T05:07:12.424866+00:00"
+    "checked": "2026-10-16T07:17:55.809371+00:00"
   }
 }
