@@ -15,8 +15,9 @@
     "added": 2,
     "engine": "engine unreachable",
     "engine_method": "reader 200",
-    "fails": 0,
-    "checked": "2026-10-17T05:39:28.250450+00:00"
+    "fails": 1,
+    "checked": "2026-10-17T10:54:05.241640+00:00",
+    "error": "direct 202; browser 202; reader 200"
   },
   "genova": {
     "status": "watching",
@@ -24,7 +25,7 @@
       "1382 (Civil Code): At least 10 days before the arrival date, the reservation can be cancelled without paying a cancellation fee.",
       "15:26 31 Jul 26 In der Hochsaison voll ausgebucht alles natürlich etwas stressig - aber hat alles wunderbar gepasst, sehr engagiert geführt auch, der Hüttenwirt nimmt sich die Zeit für kleine Schnacks - vielen Dank!",
       "39040 Villnöss Italy/Südtirol Lodge +39 0472 670072 Mobile Phone +39 347 2667694 info@schlueterhuette.com VAT-Nr: 02571910211 Inquiry/Reservation Opening hours Maps",
-      "Additional charges and terms of payment Deposit: The reservation will be confirmed once the deposit of 20 € per person is transferred to our bank account.",
+      "Additional charges and terms of payment Deposit: The reservation will be confirmed once the deposit of 30 € per person is transferred to our bank account.",
       "Booking Bookings can be made by email or phone.",
       "Dinner is exclusively reserved for hotel guests.",
       "If you have booked a room without bed linen or a place in the mattress dormitory, you will definitely need a sleeping bag .",
@@ -40,11 +41,11 @@
       "info@schlueterhuette.com 0472 670072 or 347 266 7694 Unfortunately we can’t accept reservations via WhatsApp.",
       "– 11.10.2026 Lunchtime: 11:30 am – 3:00 pm Table reservations are not available."
     ],
-    "fp": "2a1bce769101",
+    "fp": "8a8ad525a7e0",
     "method": "direct/direct",
-    "added": 0,
+    "added": 1,
     "fails": 0,
-    "checked": "2026-10-17T05:39:28.250450+00:00"
+    "checked": "2026-10-17T10:54:05.241640+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -57,7 +58,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-17T05:39:28.250450+00:00"
+    "checked": "2026-10-17T10:54:05.241640+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify",
@@ -76,7 +77,7 @@
     "engine_at": "2026-10-16T18:09:03.272546",
     "engine_url": "https://booking.roomraccoon.it/rifugio-firenze/en/?dateStart=27-06-2027&dateEnd=28-06-2027",
     "fails": 0,
-    "checked": "2026-10-17T05:39:28.250450+00:00"
+    "checked": "2026-10-17T10:54:05.241640+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -89,7 +90,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-17T05:39:28.250450+00:00"
+    "checked": "2026-10-17T10:54:05.241640+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -103,7 +104,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-17T05:39:28.250450+00:00"
+    "checked": "2026-10-17T10:54:05.241640+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -124,7 +125,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-17T05:39:28.250450+00:00"
+    "checked": "2026-10-17T10:54:05.241640+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -140,6 +141,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-17T05:39:28.250450+00:00"
+    "checked": "2026-10-17T10:54:05.241640+00:00"
   }
 }
