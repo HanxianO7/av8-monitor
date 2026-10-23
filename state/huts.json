@@ -14,8 +14,9 @@
     "added": 0,
     "engine": "engine unreachable",
     "engine_method": "reader 200",
-    "fails": 0,
-    "checked": "2026-10-22T22:25:41.036978+00:00"
+    "fails": 1,
+    "checked": "2026-10-23T01:36:14.263457+00:00",
+    "error": "direct ConnectTimeout; browser Timeout; reader 200"
   },
   "genova": {
     "status": "watching",
@@ -43,7 +44,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-22T22:25:41.036978+00:00"
+    "checked": "2026-10-23T01:36:14.263457+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -56,10 +57,10 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-22T22:25:41.036978+00:00"
+    "checked": "2026-10-23T01:36:14.263457+00:00"
   },
   "firenze": {
-    "status": "PAGE SAYS 2027 OPEN - verify",
+    "status": "PAGE SAYS 2027 OPEN - verify (engine unreachable)",
     "sentences": [
       "\"La mia vita al rifugio\" The book of Resi Perathoner More information and interesting stories about the life on the mountains in the book: \"My life on the hut\" - 70 years of management of the family Perathoner.",
       "I agree Close Reservations Reservations for summer 2027 will be accepted from February 2027 through our booking system on our website.",
@@ -70,12 +71,10 @@
     "fp": "c9447cd0bfe1",
     "method": "direct",
     "added": 0,
-    "engine": "no rooms / not open",
-    "engine_method": "reader",
-    "engine_at": "2026-10-22T01:36:23.861177",
-    "engine_url": "https://booking.roomraccoon.it/rifugio-firenze/en/?dateStart=27-06-2027&dateEnd=28-06-2027",
+    "engine": "engine unreachable",
+    "engine_method": "reader 200",
     "fails": 0,
-    "checked": "2026-10-22T22:25:41.036978+00:00"
+    "checked": "2026-10-23T01:36:14.263457+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -88,7 +87,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-22T22:25:41.036978+00:00"
+    "checked": "2026-10-23T01:36:14.263457+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -102,7 +101,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-22T22:25:41.036978+00:00"
+    "checked": "2026-10-23T01:36:14.263457+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -123,7 +122,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-22T22:25:41.036978+00:00"
+    "checked": "2026-10-23T01:36:14.263457+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -139,6 +138,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-22T22:25:41.036978+00:00"
+    "checked": "2026-10-23T01:36:14.263457+00:00"
   }
 }
