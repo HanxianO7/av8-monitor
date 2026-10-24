@@ -1,10 +1,10 @@
 # Alta Via 8 (backup to AV1) – status
 
-Last check: 24 Oct 2026 13:07 KL · 07:07 Italy
+Last check: 24 Oct 2026 15:23 KL · 09:23 Italy
 
 | Night | Hut | Role | Status | Booking engine | Meals | Booking | Method |
 |---|---|---|---|---|---|---|---|
-| 23 Jun | Plose (Plosehütte) | preferred | watching | no rooms / not open | Half board offered | RoomRaccoon online | reader |
+| 23 Jun | Plose (Plosehütte) | preferred | ⚠️ error x1: direct ConnectionError; browser HTTPError; reader 200 | no rooms / not open | Half board offered | RoomRaccoon online | reader |
 | 24 Jun | Genova (Schlüterhütte) | preferred | watching | — | B&B; dinner for house guests, à la carte | Email/phone only, €20 pp deposit | direct/direct |
 | 25 Jun | Resciesa (Raschötzhütte) | preferred | watching | — | Dinner à la carte | Email only | direct |
 | 27 Jun | Firenze (Regensburger Hütte) | preferred | PAGE SAYS 2027 OPEN - verify | no rooms / not open | B&B; half board only for groups of 10+ | RoomRaccoon online, from Feb 2027 | direct |
