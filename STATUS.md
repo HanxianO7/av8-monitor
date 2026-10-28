@@ -1,14 +1,14 @@
 # Alta Via 8 (backup to AV1) – status
 
-Last check: 28 Oct 2026 07:49 KL · 00:49 Italy
+Last check: 28 Oct 2026 13:52 KL · 06:52 Italy
 
 | Night | Hut | Role | Status | Booking engine | Meals | Booking | Method |
 |---|---|---|---|---|---|---|---|
-| 23 Jun | Plose (Plosehütte) | preferred | ⚠️ error x4: direct ConnectionError; browser HTTPError; reader 200 | no rooms / not open | Half board offered | RoomRaccoon online | reader |
+| 23 Jun | Plose (Plosehütte) | preferred | watching (engine unreachable) | engine unreachable | Half board offered | RoomRaccoon online | reader |
 | 24 Jun | Genova (Schlüterhütte) | preferred | watching | — | B&B; dinner for house guests, à la carte | Email/phone only, €20 pp deposit | direct/direct |
 | 25 Jun | Resciesa (Raschötzhütte) | preferred | watching | — | Dinner à la carte | Email only | direct |
-| 27 Jun | Firenze (Regensburger Hütte) | preferred | PAGE SAYS 2027 OPEN - verify (engine unreachable) | engine unreachable | B&B; half board only for groups of 10+ | RoomRaccoon online, from Feb 2027 | direct |
-| 28 Jun | Sasso Piatto (Plattkofelhütte) | preferred | watching | — | Half board (per reviews) | Email (official site) | direct/direct |
+| 27 Jun | Firenze (Regensburger Hütte) | preferred | PAGE SAYS 2027 OPEN - verify | no rooms / not open | B&B; half board only for groups of 10+ | RoomRaccoon online, from Feb 2027 | direct |
+| 28 Jun | Sasso Piatto (Plattkofelhütte) | preferred | watching | — | Half board (per reviews) | Email (official site) | reader/reader |
 | 29 Jun | Molignon (Mahlknechthütte) | preferred | watching | — | Check (dinner on pre-order) | Online via seiseralm.it / suedtirol.info | direct/direct |
 | 30 Jun | Tierser Alpl (Alpe di Tires) | preferred (half board) | watching | — | Half board from €97 (6-12 bed room) | Online | direct |
 | 30 Jun | Schlernhaus (Rifugio Bolzano) | backup | watching | — | B&B; dinner extra | Request form (JS) | direct/direct |

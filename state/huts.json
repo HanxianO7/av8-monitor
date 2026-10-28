@@ -1,23 +1,22 @@
 {
   "plose": {
-    "status": "watching",
+    "status": "watching (engine unreachable)",
     "sentences": [
+      "BOOK NOW At 2,447 meters in the Dolomites of South Tyrol.",
+      "BOOK NOW REFUGE CLOSED!",
+      "Come raggiungere il Rifugio Plose Scopri come raggiungere il Rifugio Plose: indicazioni, percorsi e informazioni utili per arrivare in ogni stagione.",
       "DISCOVER THE REFUGE SEE THE GALLERY Winter Packages 2026/2027 Dolomiti Superpremière Validity: from the beginning of the season – 19/12/2026 (daily arrival, 4 nights) Daydream: waking up at 2,447 meters and making the first track in fresh snow.",
-      "How to reach the Plose Refuge Find out how to reach the Plose Refuge: directions, routes, and useful information for getting there in any season.",
       "Necessary Experience Measurement Find out more Reject everything Accept all Created with iubenda (link opens in a new tab)",
       "WINTER OPENING FROM DECEMBER 5TH!",
       "€390 without ski pass/person €550 with ski pass/person REQUEST INFORMATION White weeks Validity: 09.01.2027 - 30.01.2027 First day of validity of the ski pass is 10.01.2027 Your Ski Week at 2,447m: 7 days of skiing and panoramic views for the price of 6!"
     ],
-    "fp": "88685f01f08c",
+    "fp": "ce91cd28aa72",
     "method": "reader",
-    "added": 1,
-    "engine": "no rooms / not open",
-    "engine_method": "reader",
-    "engine_at": "2026-10-26T06:27:53.387773",
-    "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?dateStart=23-06-2027&dateEnd=24-06-2027",
-    "fails": 4,
-    "checked": "2026-10-27T23:49:46.400262+00:00",
-    "error": "direct ConnectionError; browser HTTPError; reader 200"
+    "added": 3,
+    "engine": "engine unreachable",
+    "engine_method": "reader 200",
+    "fails": 0,
+    "checked": "2026-10-28T05:52:51.304195+00:00"
   },
   "genova": {
     "status": "watching",
@@ -45,7 +44,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-27T23:49:46.400262+00:00"
+    "checked": "2026-10-28T05:52:51.304195+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -58,10 +57,10 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-27T23:49:46.400262+00:00"
+    "checked": "2026-10-28T05:52:51.304195+00:00"
   },
   "firenze": {
-    "status": "PAGE SAYS 2027 OPEN - verify (engine unreachable)",
+    "status": "PAGE SAYS 2027 OPEN - verify",
     "sentences": [
       "\"La mia vita al rifugio\" The book of Resi Perathoner More information and interesting stories about the life on the mountains in the book: \"My life on the hut\" - 70 years of management of the family Perathoner.",
       "I agree Close Reservations Reservations for summer 2027 will be accepted from February 2027 through our booking system on our website.",
@@ -72,23 +71,25 @@
     "fp": "c9447cd0bfe1",
     "method": "direct",
     "added": 0,
-    "engine": "engine unreachable",
-    "engine_method": "reader 200",
+    "engine": "no rooms / not open",
+    "engine_method": "reader",
+    "engine_at": "2026-10-28T05:53:21.906920",
+    "engine_url": "https://booking.roomraccoon.it/rifugio-firenze/en/?dateStart=27-06-2027&dateEnd=28-06-2027",
     "fails": 0,
-    "checked": "2026-10-27T23:49:46.400262+00:00"
+    "checked": "2026-10-28T05:52:51.304195+00:00"
   },
   "sassopiatto": {
     "status": "watching",
     "sentences": [
-      "2027 Alpine hut in the Dolomites Rifugio Sasso Piatto on Alpe di Siusi “ Grießtenk ”, or “welcome” to our Rifugio Sasso Piatto with beautiful 360° views of the Dolomite peaks of Sassopiatto, Marmolada, Sass Pordoi, Sciliar, Denti di Terrarossa, Alpe di Siusi, Molignon, Catinaccio and Ötztal Alps.",
+      "2027 Alpine hut in the Dolomites Rifugio Sasso Piatto on Alpe di Siusi “Grießtenk”, or “welcome” to our Rifugio Sasso Piatto with beautiful 360° views of the Dolomite peaks of Sassopiatto, Marmolada, Sass Pordoi, Sciliar, Denti di Terrarossa, Alpe di Siusi, Molignon, Catinaccio and Ötztal Alps.",
       "Here, a paradise opens up to you: All around our Alpine hut in the Dolomites is Europe’s largest Alpine pasture, where calves and sheep graze.",
       "Traditional South Tyrolean dishes We love searching through grandma’s cookbook for traditional South Tyrolean dishes, to which we add the finest Mediterranean herbs."
     ],
-    "fp": "2a3bcb1cb8b3",
-    "method": "direct/direct",
-    "added": 0,
+    "fp": "4e50776877b4",
+    "method": "reader/reader",
+    "added": 1,
     "fails": 0,
-    "checked": "2026-10-27T23:49:46.400262+00:00"
+    "checked": "2026-10-28T05:52:51.304195+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -102,7 +103,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-27T23:49:46.400262+00:00"
+    "checked": "2026-10-28T05:52:51.304195+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -123,7 +124,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-27T23:49:46.400262+00:00"
+    "checked": "2026-10-28T05:52:51.304195+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -139,6 +140,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-27T23:49:46.400262+00:00"
+    "checked": "2026-10-28T05:52:51.304195+00:00"
   }
 }
