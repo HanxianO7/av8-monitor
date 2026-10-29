@@ -1,23 +1,22 @@
 {
   "plose": {
-    "status": "watching (engine unreachable)",
+    "status": "watching",
     "sentences": [
-      "BOOK NOW At 2,447 meters in the Dolomites of South Tyrol.",
-      "BOOK NOW REFUGE CLOSED!",
       "Come raggiungere il Rifugio Plose Scopri come raggiungere il Rifugio Plose: indicazioni, percorsi e informazioni utili per arrivare in ogni stagione.",
       "DISCOVER THE REFUGE SEE THE GALLERY Winter Packages 2026/2027 Dolomiti Superpremière Validity: from the beginning of the season – 19/12/2026 (daily arrival, 4 nights) Daydream: waking up at 2,447 meters and making the first track in fresh snow.",
       "Necessary Experience Measurement Find out more Reject everything Accept all Created with iubenda (link opens in a new tab)",
       "WINTER OPENING FROM DECEMBER 5TH!",
       "€390 without ski pass/person €550 with ski pass/person REQUEST INFORMATION White weeks Validity: 09.01.2027 - 30.01.2027 First day of validity of the ski pass is 10.01.2027 Your Ski Week at 2,447m: 7 days of skiing and panoramic views for the price of 6!"
     ],
-    "fp": "ce91cd28aa72",
+    "fp": "d0f34cd9a502",
     "method": "reader",
     "added": 0,
-    "engine": "engine unreachable",
-    "engine_method": "reader 200",
-    "fails": 4,
-    "checked": "2026-10-29T13:15:21.524925+00:00",
-    "error": "direct ConnectionError; browser HTTPError; reader 200"
+    "engine": "no rooms / not open",
+    "engine_method": "reader",
+    "engine_at": "2026-10-29T19:01:15.560724",
+    "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?dateStart=23-06-2027&dateEnd=24-06-2027",
+    "fails": 0,
+    "checked": "2026-10-29T19:01:00.370317+00:00"
   },
   "genova": {
     "status": "watching",
@@ -45,7 +44,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-29T13:15:21.524925+00:00"
+    "checked": "2026-10-29T19:01:00.370317+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -58,7 +57,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-29T13:15:21.524925+00:00"
+    "checked": "2026-10-29T19:01:00.370317+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify (engine unreachable)",
@@ -75,21 +74,20 @@
     "engine": "engine unreachable",
     "engine_method": "reader 200",
     "fails": 0,
-    "checked": "2026-10-29T13:15:21.524925+00:00"
+    "checked": "2026-10-29T19:01:00.370317+00:00"
   },
   "sassopiatto": {
     "status": "watching",
     "sentences": [
       "2027 Alpine hut in the Dolomites Rifugio Sasso Piatto on Alpe di Siusi “ Grießtenk ”, or “welcome” to our Rifugio Sasso Piatto with beautiful 360° views of the Dolomite peaks of Sassopiatto, Marmolada, Sass Pordoi, Sciliar, Denti di Terrarossa, Alpe di Siusi, Molignon, Catinaccio and Ötztal Alps.",
       "Here, a paradise opens up to you: All around our Alpine hut in the Dolomites is Europe’s largest Alpine pasture, where calves and sheep graze.",
-      "Traditional South Tyrolean dishes We love searching through grandma’s cookbook for traditional South Tyrolean dishes, to which we add the finest Mediterranean herbs.",
-      "Your hosts Petra & Thomas Kasseroler with children Ivan, Arno, Felix and Maria Information Room reservation only via email: info@plattkofel.com No table reservation Prices Kitchen News & Events Dormitory and rooms Staying overnight in an Alpine hut in the Dolomites has a special charm."
+      "Traditional South Tyrolean dishes We love searching through grandma’s cookbook for traditional South Tyrolean dishes, to which we add the finest Mediterranean herbs."
     ],
-    "fp": "1d095c023f00",
+    "fp": "2a3bcb1cb8b3",
     "method": "direct/direct",
-    "added": 1,
+    "added": 0,
     "fails": 0,
-    "checked": "2026-10-29T13:15:21.524925+00:00"
+    "checked": "2026-10-29T19:01:00.370317+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -103,7 +101,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-29T13:15:21.524925+00:00"
+    "checked": "2026-10-29T19:01:00.370317+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -124,7 +122,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-29T13:15:21.524925+00:00"
+    "checked": "2026-10-29T19:01:00.370317+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -140,6 +138,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-29T13:15:21.524925+00:00"
+    "checked": "2026-10-29T19:01:00.370317+00:00"
   }
 }
