@@ -2,21 +2,23 @@
   "plose": {
     "status": "watching",
     "sentences": [
+      "BOOK NOW At 2,447 meters in the Dolomites of South Tyrol.",
+      "BOOK NOW REFUGE CLOSED!",
       "Come raggiungere il Rifugio Plose Scopri come raggiungere il Rifugio Plose: indicazioni, percorsi e informazioni utili per arrivare in ogni stagione.",
       "DISCOVER THE REFUGE SEE THE GALLERY Winter Packages 2026/2027 Dolomiti Superpremière Validity: from the beginning of the season – 19/12/2026 (daily arrival, 4 nights) Daydream: waking up at 2,447 meters and making the first track in fresh snow.",
       "Necessary Experience Measurement Find out more Reject everything Accept all Created with iubenda (link opens in a new tab)",
       "WINTER OPENING FROM DECEMBER 5TH!",
       "€390 without ski pass/person €550 with ski pass/person REQUEST INFORMATION White weeks Validity: 09.01.2027 - 30.01.2027 First day of validity of the ski pass is 10.01.2027 Your Ski Week at 2,447m: 7 days of skiing and panoramic views for the price of 6!"
     ],
-    "fp": "d0f34cd9a502",
+    "fp": "ce91cd28aa72",
     "method": "reader",
-    "added": 0,
+    "added": 2,
     "engine": "no rooms / not open",
     "engine_method": "reader",
     "engine_at": "2026-10-29T19:01:15.560724",
     "engine_url": "https://booking.roomraccoon.it/plosehuette/en/?dateStart=23-06-2027&dateEnd=24-06-2027",
     "fails": 0,
-    "checked": "2026-10-29T23:21:35.710131+00:00"
+    "checked": "2026-10-30T05:58:15.046717+00:00"
   },
   "genova": {
     "status": "watching",
@@ -44,7 +46,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-29T23:21:35.710131+00:00"
+    "checked": "2026-10-30T05:58:15.046717+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -57,7 +59,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-29T23:21:35.710131+00:00"
+    "checked": "2026-10-30T05:58:15.046717+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify (engine unreachable)",
@@ -74,7 +76,7 @@
     "engine": "engine unreachable",
     "engine_method": "reader 200",
     "fails": 0,
-    "checked": "2026-10-29T23:21:35.710131+00:00"
+    "checked": "2026-10-30T05:58:15.046717+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -87,7 +89,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-29T23:21:35.710131+00:00"
+    "checked": "2026-10-30T05:58:15.046717+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -101,7 +103,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-29T23:21:35.710131+00:00"
+    "checked": "2026-10-30T05:58:15.046717+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -122,7 +124,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-29T23:21:35.710131+00:00"
+    "checked": "2026-10-30T05:58:15.046717+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -138,6 +140,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-10-29T23:21:35.710131+00:00"
+    "checked": "2026-10-30T05:58:15.046717+00:00"
   }
 }

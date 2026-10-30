@@ -1,6 +1,6 @@
 # Alta Via 8 (backup to AV1) – status
 
-Last check: 30 Oct 2026 07:21 KL · 00:21 Italy
+Last check: 30 Oct 2026 13:58 KL · 06:58 Italy
 
 | Night | Hut | Role | Status | Booking engine | Meals | Booking | Method |
 |---|---|---|---|---|---|---|---|
