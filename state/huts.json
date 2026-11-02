@@ -14,7 +14,7 @@
     "engine": "engine unreachable",
     "engine_method": "reader 200",
     "fails": 0,
-    "checked": "2026-11-02T17:10:55.110473+00:00"
+    "checked": "2026-11-02T23:54:35.932301+00:00"
   },
   "genova": {
     "status": "watching",
@@ -42,7 +42,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-11-02T17:10:55.110473+00:00"
+    "checked": "2026-11-02T23:54:35.932301+00:00"
   },
   "resciesa": {
     "status": "watching",
@@ -55,7 +55,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-11-02T17:10:55.110473+00:00"
+    "checked": "2026-11-02T23:54:35.932301+00:00"
   },
   "firenze": {
     "status": "PAGE SAYS 2027 OPEN - verify",
@@ -74,7 +74,7 @@
     "engine_at": "2026-11-02T17:11:24.353437",
     "engine_url": "https://booking.roomraccoon.it/rifugio-firenze/en/?dateStart=27-06-2027&dateEnd=28-06-2027",
     "fails": 0,
-    "checked": "2026-11-02T17:10:55.110473+00:00"
+    "checked": "2026-11-02T23:54:35.932301+00:00"
   },
   "sassopiatto": {
     "status": "watching",
@@ -87,7 +87,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-11-02T17:10:55.110473+00:00"
+    "checked": "2026-11-02T23:54:35.932301+00:00"
   },
   "molignon": {
     "status": "watching",
@@ -101,7 +101,7 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-11-02T17:10:55.110473+00:00"
+    "checked": "2026-11-02T23:54:35.932301+00:00"
   },
   "tierseralpl": {
     "status": "watching",
@@ -122,7 +122,7 @@
     "method": "direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-11-02T17:10:55.110473+00:00"
+    "checked": "2026-11-02T23:54:35.932301+00:00"
   },
   "schlernhaus": {
     "status": "watching",
@@ -138,6 +138,6 @@
     "method": "direct/direct",
     "added": 0,
     "fails": 0,
-    "checked": "2026-11-02T17:10:55.110473+00:00"
+    "checked": "2026-11-02T23:54:35.932301+00:00"
   }
 }
