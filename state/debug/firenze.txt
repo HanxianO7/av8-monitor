@@ -1,2 +1,1 @@
-engine fetch failed: reader 200
-https://booking.roomraccoon.it/rifugio-firenze/en/?dateStart=27-06-2027&dateEnd=28-06-2027
+Log in Travel Period (1 night) 27 Jun 2027 28 Jun 2027 Show availability Rifugio Firenze Regensburgerhütte Resi SNC Perathoner Bruno & Co. info@rifugiofirenze.com via Ciaulonch 17 39047 Santa cristina valgardena 0039 0471796307 IT02721660211 IT02721660211 Tamara Ploner Powered by RoomRaccoon Hotel Operation System
